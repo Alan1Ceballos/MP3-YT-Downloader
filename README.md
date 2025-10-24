@@ -1,60 +1,60 @@
-# 🎧 YT Downloader — Aplicación de Escritorio
+# 🎧 YT Downloader — Desktop Application
 
-**YT Downloader** es una aplicación de escritorio moderna y liviana que permite descargar fácilmente el **audio de YouTube en formato MP3**, con soporte para **listas de reproducción y mixes automáticos**.  
-Desarrollada en **Python (PyQt6 + yt-dlp)**, funciona de forma totalmente **portable**, sin necesidad de instalación ni dependencias externas.
-
----
-
-## 🚀 Características principales
-
-- Descarga de audio **MP3** desde enlaces individuales o listas completas.  
-- Soporte para **playlists** y **mixes automáticos** de YouTube.  
-- Interfaz moderna e intuitiva con progreso en tiempo real.  
-- Posibilidad de **cancelar descargas individuales o todas a la vez**.  
-- Guarda automáticamente la posición, tamaño y preferencias de la ventana.  
-- **FFmpeg integrado localmente**, sin instalación adicional.  
-- **Portable:** basta con ejecutar el `.exe`.
+**YT Downloader** is a modern and lightweight desktop application that allows you to easily download **YouTube audio in MP3 format**, with full support for **playlists and automatic mixes**.  
+Developed in **Python (PyQt6 + yt-dlp)**, it runs completely **portable**, with no installation or external dependencies required.
 
 ---
 
-## 🖥️ Requisitos mínimos
+## 🚀 Key Features
 
-- **Sistema operativo:** Windows 10 o superior  
-- **Espacio libre:** ~200 MB (incluye dependencias y FFmpeg)  
-- **Conexión a Internet:** requerida para las descargas
-
----
-
-## 📦 Instalación y uso
-
-1. Descarga la última versión desde la sección **[Releases](../../releases)**.  
-2. Extrae el contenido del archivo `.zip`.  
-3. Ejecuta el archivo **`main.exe`**.  
-4. Pega tus enlaces de YouTube (uno por línea o separados por espacios).  
-5. Selecciona la carpeta de destino.  
-6. Presiona **“Analizar enlaces”** y luego **“Descargar”**.
+- Download **MP3 audio** from individual links or entire playlists.  
+- Support for **YouTube playlists** and **automatic mixes**.  
+- Modern and intuitive interface with real-time progress display.  
+- Ability to **cancel selected downloads or all at once**.  
+- Automatically saves window position, size, and preferences.  
+- **Integrated local FFmpeg**, no additional setup required.  
+- **Portable:** just run the `.exe`.
 
 ---
 
-## 💡 Notas
+## 🖥️ Minimum Requirements
 
-- Los audios se guardan en formato **.mp3** (calidad 192 kbps).  
-- Si el enlace pertenece a una playlist, podrás elegir si descargarla completa o solo el video actual.  
-- Los parámetros visuales se guardan automáticamente al cerrar la aplicación.  
-- No requiere instalación ni privilegios de administrador.
+- **Operating System:** Windows 10 or higher  
+- **Free Space:** ~200 MB (includes dependencies and FFmpeg)  
+- **Internet Connection:** required for downloads
 
 ---
 
-## 👨‍💻 Autor
+## 📦 Installation & Usage
+
+1. Download the latest version from the **[Releases](../../releases)** section.  
+2. Extract the contents of the `.zip` file.  
+3. Run the **`main.exe`** file.  
+4. Paste your YouTube links (one per line or separated by spaces).  
+5. Choose your destination folder.  
+6. Click **“Analyze Links”** and then **“Download”**.
+
+---
+
+## 💡 Notes
+
+- Audio files are saved in **.mp3** format (192 kbps quality).  
+- If the link belongs to a playlist, you can choose to download the entire list or just the selected video.  
+- Visual parameters and preferences are saved automatically when closing the app.  
+- No installation or administrator privileges required.
+
+---
+
+## 👨‍💻 Author
 
 **Alan Ceballos**  
-Desarrollo de software en Python + PyQt6  
-Proyecto educativo y de automatización multimedia.
+Software development in Python + PyQt6  
+Educational and multimedia automation project.
 
 ---
 
-## ⚖️ Licencia
+## ⚖️ License
 
-Este proyecto se distribuye bajo la licencia **MIT**, que permite su uso, modificación y redistribución libremente, siempre que se mantenga el aviso de autoría original.
+This project is distributed under the **MIT License**, allowing free use, modification, and redistribution, provided the original authorship notice is retained.
 
 MIT License © 2025 Alan Ceballos
