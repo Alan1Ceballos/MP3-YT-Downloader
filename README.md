@@ -29,11 +29,10 @@ Desarrollada en **Python (PyQt6 + yt-dlp)**, funciona de forma totalmente **port
 
 1. Descarga la última versión desde la sección **[Releases](../../releases)**.  
 2. Extrae el contenido del archivo `.zip`.  
-3. Abre la carpeta `YT-Downloader/`.  
-4. Ejecuta el archivo **`main.exe`**.  
-5. Pega tus enlaces de YouTube (uno por línea o separados por espacios).  
-6. Selecciona la carpeta de destino.  
-7. Presiona **“Analizar enlaces”** y luego **“Descargar”**.
+3. Ejecuta el archivo **`main.exe`**.  
+4. Pega tus enlaces de YouTube (uno por línea o separados por espacios).  
+5. Selecciona la carpeta de destino.  
+6. Presiona **“Analizar enlaces”** y luego **“Descargar”**.
 
 ---
 
